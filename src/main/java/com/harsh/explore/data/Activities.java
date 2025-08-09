@@ -1,0 +1,1 @@
+package com.harsh.explore.data;public class Activities {    String activityName;    public Activities(String cricket, String swimming, String badminton, String football) {    }}
